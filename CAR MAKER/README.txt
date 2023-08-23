@@ -7,6 +7,8 @@ cliquez sur generate
 inscrivez les roue dans le script CarMover qui se trouve dans le corp de la voiture
 n'ésitez pas a changer le script de déplacement car il est très basique
 
+my paypal adress for support kevinrps22@gmail.com
+
 EN:
 click on "Custom" next to window
 click on car maker
@@ -14,3 +16,5 @@ put the body of the car and the wheels
 click generate
 enter the wheels in the CarMover script which is in the body of the car
 do not hesitate to change the move script because it is very basic
+
+my paypal adress for support kevinrps22@gmail.com
